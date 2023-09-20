@@ -7,6 +7,7 @@
 ### use the command `npm install` inside the project folder
 
 This will install all the packages
+`Important`: in case the command returns error, use the command `npm install --force` as sometimes there are compatibility problems.
 
 ### use the command `npm start` inside the project folder
 
